@@ -3,7 +3,7 @@
 
 #### Python Flask + Plotly + MongoDB
 
-Before running api.py please create MongoDB database Dashboard with following collections: workingDays, presentations, visitedCountries, moneyEarned, vaccinations. 
+Before running api.py please create MongoDB database 'Dashboard' with following collections: workingDays, presentations, visitedCountries, moneyEarned, vaccinations. 
 Each collection should have document with field 'number'
 
 
