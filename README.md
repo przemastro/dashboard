@@ -13,7 +13,7 @@ Each collection should have document with field 'number'
 ## My 2019 in numbers
 
 
-![Dashboard](https://github.com/przemastro/dashboard/blob/master/2019.png)
+![Dashboard](https://github.com/przemastro/dashboard/blob/master/2019.jpg)
 
 ## My 2018 in numbers
 
