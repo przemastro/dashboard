@@ -3,7 +3,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/przemastro/dashboard)](https://github.com/przemastro/dashboard/issues)
 [![GitHub forks](https://img.shields.io/github/forks/przemastro/dashboard)](https://github.com/przemastro/dashboard/network)
 [![GitHub stars](https://img.shields.io/github/stars/przemastro/dashboard)](https://github.com/przemastro/dashboard/stargazers)
-[![Python version](https://img.shields.io/badge/Python-2.7.x-%233572A5)](https://github.com/przemastro/dashboard)
+[![Python version](https://img.shields.io/badge/Python-2.7.16-%233572A5)](https://github.com/przemastro/dashboard)
 
 ![Dashboard](https://github.com/przemastro/dashboard/blob/master/2020.png)
 
